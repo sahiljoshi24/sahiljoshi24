@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil Joshi</h1>
+<h1 align="center">Hello! 👋 I'm Sahil Joshi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiljoshi24&label=Profile%20views&color=0e75b6&style=flat" alt="sahiljoshi24" /> </p>
 
 - 🌱 I’m currently learning **Full stack web development (MERN)**
